@@ -13,4 +13,4 @@ arr=[0]*len(d)
 arr[0]=d[0]
 for i in range(1,len(d)):
     arr[i]=arr[i-1]+d[i]
-print(arr)
+print("answer ",arr)
