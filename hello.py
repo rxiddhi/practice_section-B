@@ -5,4 +5,4 @@ for val in l:
         s[val]=1
     else:
         s[val]+=1
-print(s)
+print("answer",s)
