@@ -1,0 +1,24 @@
+<head>
+<style>
+div.scroll-container {
+  background-color: #000000;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 5px;
+}
+</head>
+div.scroll-container img {
+  padding: 10px;
+}
+</style>
+<body>
+
+<h2 style="text-align: center; font-size: 60px; color: beige; font-family: ;">TECHMORPH</h2>
+
+<div class="scroll-container">
+  <img src="Head images/WhatsApp Image 2024-11-26 at 5.47.09 PM.jpeg" alt="TechMorph Mega Sale" width="100%" height="50%">
+  <img src="Head images/2.webp" alt="Airdrops" width="100%" height="50%">
+  <img src="Head images/Boult_3000x1200-PC._CB543542644_.jpg" alt="TechMorph Smart Watch" width="100%" height="50%">
+  <img src="img_mountains.jpg" alt="Mountains" width="100%" height="50%">
+</div>
+</body>
