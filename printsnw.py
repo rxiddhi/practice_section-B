@@ -1,2 +1,2 @@
-print('hello')
-print('snw')
+print('hello',end=" ")
+print('S&W')
