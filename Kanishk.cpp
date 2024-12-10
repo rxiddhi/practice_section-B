@@ -13,7 +13,7 @@ int main() {
         vector<int> v(k);
         unordered_map<int, int> d;
         for (int i = 0; i < k; ++i) {
-            cin >> v[i];
+            cin >> v[i+1];
             d[v[i]]++;
         }
         if (d[1] > 0 && d[k - 2] > 0) {
