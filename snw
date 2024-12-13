@@ -3,7 +3,6 @@
 <head>
     <title>ID Selectors Example with Borders</title>
     <style>
-        /* Write your CSS here */
         #box1{width:100%;
         height:40px;
         background-color:#1E90FF;
