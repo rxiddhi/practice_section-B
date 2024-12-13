@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Book Shelf Design</title>
+</head>
+<body>
+<div style="background:grey;height:180px;width:150px;border:5px solid brown">
+<div style="height:60px;background-color:red;"> Mathemetics</div>
+<div style="height:60px;background-color:blue;">S&W</div>
+<div style="height:60px;background-color:green;">Snake</div>
+
+</div>
+
+</body>
+</html>
