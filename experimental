@@ -14,6 +14,7 @@ div.scroll-container img {
 <body>
 
 <h2 style="text-align: center; font-size: 60px; color: beige; font-family: ;">TECHMORPH</h2>
+<p>Where creativity meets technology</p>
 
 <div class="scroll-container">
   <img src="Head images/WhatsApp Image 2024-11-26 at 5.47.09 PM.jpeg" alt="TechMorph Mega Sale" width="100%" height="50%">
