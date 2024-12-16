@@ -1,5 +1,5 @@
 t=int(input())
-for _ in range(t):
+for i in range(t):
     n=input()
     if len(n)>10:
         c=len(n)-2
