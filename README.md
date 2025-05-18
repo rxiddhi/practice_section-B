@@ -1,1 +1,2 @@
-Experimenting, Learning and Exploring together.
+Experimenting, Learning, and Exploring together.
+Just for practice.
